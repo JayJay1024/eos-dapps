@@ -4,15 +4,14 @@
 
 ## 2. Usage
 
-> git clone https://github.com/LucienLau/eos-dapps.git
+```
+$ git clone https://github.com/LucienLau/eos-dapps.git
+$ cd eos-dapp/simple-task/frontend
+$ npm install
+$ npm start
+```
 
-> cd eos-dapp/simple-task/frontend
-
-> npm install
-
-> npm start
-
-Visit www.baidu.com through your browser
+Visit http://localhost:8080/ through your browser
 
 ## 3. Note
 * The contract should be deployed on eosio dawn3.0
