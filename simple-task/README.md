@@ -1,6 +1,6 @@
 # Simple Task
 
-## 1. ![Demo](https://youtu.be/mayRdcLnW_Q)
+## 1. [Demo](https://youtu.be/mayRdcLnW_Q)
 
 ## 2. Usage
 > git clone https://github.com/LucienLau/eos-dapps.git
