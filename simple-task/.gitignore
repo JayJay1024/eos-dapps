@@ -1,0 +1,6 @@
+*.mp4
+*.wast
+*.wasm
+
+.DS_Store
+node_modules/
